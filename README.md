@@ -3,6 +3,10 @@
 ## Description
 The **Student Enrollment Form** project is a web-based application that allows users to store student data in the `STUDENT-TABLE` of the `SCHOOL-DB` database. The form collects essential student information, including Roll Number, Full Name, Class, Birth Date, Address, and Enrollment Date. The data is securely stored using JsonPowerDB, ensuring fast and reliable access for future retrieval and updates.
 
+## Video
+https://github.com/user-attachments/assets/0cb65976-7352-459c-8d77-d768eb681e7b
+
+
 ## Benefits of using JsonPowerDB
 - **Real-time Data Handling**: JsonPowerDB offers real-time CRUD (Create, Read, Update, Delete) operations, ensuring that data is consistently up-to-date.
 - **High Performance**: JsonPowerDB is designed for high performance with faster read/write operations.
